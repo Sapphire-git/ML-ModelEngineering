@@ -1,0 +1,7 @@
+{
+  "records_per_run": 2888,
+  "daily_batches_per_run": 122,
+  "runs": 10,
+  "median_seconds": 0.37846974981948733,
+  "median_records_per_second": 7632.314746283533
+}
